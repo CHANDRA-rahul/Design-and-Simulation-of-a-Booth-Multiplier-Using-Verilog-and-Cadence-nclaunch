@@ -169,7 +169,7 @@ endmodule
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/4f49c3cc-be4c-408a-839f-cc93c3610578" />
 
 
 ## Results
